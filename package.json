@@ -1,0 +1,29 @@
+{
+  "name": "gulp-bootstrap-boilerplate",
+  "version": "1.0.0",
+  "author": "Denis Lysenko <d@lysenkooo.ru>",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-cache": "^0.4.6",
+    "gulp-coffee": "^2.3.4",
+    "gulp-concat": "^2.6.1",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-imagemin": "^3.3.0",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.6.0",
+    "gulp-uglify": "^3.0.0",
+    "gulp-useref": "^3.1.2",
+    "run-sequence": "^2.1.0"
+  },
+  "scripts": {
+    "start": "gulp"
+  },
+  "dependencies": {
+    "gulp-bower": "^0.0.13"
+  }
+}

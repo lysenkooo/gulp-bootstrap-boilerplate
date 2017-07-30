@@ -1,0 +1,22 @@
+{
+  "name": "gulp-bootstrap-boilerplate",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Denis Lysenko <crashcube@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap-sass": "^3.3.7",
+    "font-awesome": "^4.7.0"
+  }
+}
